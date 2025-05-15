@@ -1,0 +1,23 @@
+# .gitignore
+
+# Node (client + server)
+node_modules/
+dist/
+.env
+
+# React
+*.log
+*.cache
+
+# C++
+dms_cpp/build/
+*.o
+*.exe
+*.out
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
